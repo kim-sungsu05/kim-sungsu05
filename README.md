@@ -6,7 +6,7 @@
 <!-- 타이핑 문구 -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=4000&pause=1500&color=FFFFFF&center=true&vCenter=true&width=600&lines=hello%2C+world+I%27m+Sungsu;Journey+to+becoming+a+developer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=4000&pause=1500&color=FFFFFF&center=true&vCenter=true&width=650&lines=hello%2C+world+I%27m+Sungsu;Journey+to+becoming+the+best+engineer" alt="Typing SVG" />
   </a>
 </p>
 
@@ -21,7 +21,16 @@
 <div align="center">
   <h3 style="color: #ffffff;">🔥 Current Streak</h3>
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=kim-sungsu05&theme=dark&background=0D0D0D&border=8B0000&ring=FF2200&fire=FF2200&currStreakNum=FF4500&sideLabels=false" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=kim-sungsu05&theme=dark&background=0D0D0D&border=8B0000&ring=FF2200&fire=FF2200&currStreakNum=FF4500&sideLabels=false" alt="GitHub Streak" width="68%" />
+</div>
+
+<br><br><br><br>
+
+<!-- 기여도 그래프 -->
+<div align="center">
+  <h3 style="color: #ffffff;">🌌 Contribution Graph</h3>
+  <br>
+  <img src="https://raw.githubusercontent.com/kim-sungsu05/kim-sungsu05/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" width="82%" />
 </div>
 
 <br>
@@ -36,9 +45,9 @@
   <h3 style="color: #ffffff;">⚡ Currently Learning and Growing</h3>
   <br>
   <p align="center">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-    <img src="https://img.shields.io/badge/Oracle_SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
-    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+    <img src="https://img.shields.io/badge/Python-8B0000?style=for-the-badge&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/Java-8B0000?style=for-the-badge&logo=java&logoColor=white" />
+    <img src="https://img.shields.io/badge/Oracle_SQL-8B0000?style=for-the-badge&logo=oracle&logoColor=white" />
+    <img src="https://img.shields.io/badge/Linux-8B0000?style=for-the-badge&logo=linux&logoColor=white" />
   </p>
 </div>
