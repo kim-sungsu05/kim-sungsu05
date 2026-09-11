@@ -1,33 +1,44 @@
-<!-- 배경 배너 -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=8B0000&height=200&section=header&v=6" width="100%" />
+<!-- 상단배너 -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=8B0000&height=200&section=header&text=Welcome%20to%20my%20Github%20👋&fontSize=28&fontColor=ffffff&fontAlignY=50&v=6" width="100%" />
 
 <br>
 
-<!-- 타이핑 애니메이션 -->
+<!-- 타이핑 문구 -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=4000&pause=1500&color=FFFFFF&center=true&vCenter=true&width=600&lines=hello%2C+world;+Welcome+to+my+Github" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=4000&pause=1500&color=FFFFFF&center=true&vCenter=true&width=600&lines=hello%2C+world+I%27m+Sungsu;Journey+to+becoming+a+developer" alt="Typing SVG" />
   </a>
 </p>
 
 <br>
-<br>
 
-<!-- 연속 잔디 카드 -->
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=kim-sungsu05&theme=dark&background=0D0D0D&border=0D0D0D&ring=8B0000&fire=FF2200&sideLabels=false" alt="GitHub Streak" />
-</p>
+<!-- 구분선 -->
+<hr style="border: 0; height: 1px; background: #8B0000; margin: 20px 0;" />
 
 <br>
-<br>
 
-<!-- 
+<!-- 잔디 통계 -->
 <div align="center">
-  <h2>Tech Stack</h2>
+  <h3 style="color: #ffffff;">🔥 Current Streak</h3>
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=kim-sungsu05&theme=dark&background=0D0D0D&border=8B0000&ring=FF2200&fire=FF2200&currStreakNum=FF4500&sideLabels=false" alt="GitHub Streak" />
+</div>
+
+<br>
+
+<!-- 구분선 -->
+<hr style="border: 0; height: 1px; background: #8B0000; margin: 20px 0;" />
+
+<br>
+
+<!-- 현재 배우고 있는 과정 섹션 -->
+<div align="center">
+  <h3 style="color: #ffffff;">⚡ Currently Learning and Growing</h3>
   <br>
   <p align="center">
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white" />
     <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white" />
     <img src="https://img.shields.io/badge/Oracle_SQL-F00000?style=for-the-badge&logo=Oracle&logoColor=white" />
+    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=black" />
   </p>
-</div>-->
+</div>
