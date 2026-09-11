@@ -2,8 +2,8 @@ name: GitHub-Profile-3D-Contrib
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # 매일 자정(UTC 기준)마다 자동으로 실행
-  workflow_dispatch:      # 수동으로도 실행 가능하게 설정
+    - cron: "0 0 * * *"
+  workflow_dispatch:
 
 jobs:
   build:
@@ -13,7 +13,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       
-      - uses: yoshi38936/github-profile-3d-contrib@0.7.1
+      - uses: joshmedeski/github-profile-3d-contrib@main
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
