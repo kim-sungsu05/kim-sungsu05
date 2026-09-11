@@ -1,4 +1,4 @@
-<!-- 상단배너 -->
+<!-- 상단 배너 -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=8B0000&height=200&section=header&text=Welcome%20to%20my%20Github%20👋&fontSize=28&fontColor=ffffff&fontAlignY=50&v=6" width="100%" />
 
 <br>
@@ -17,7 +17,7 @@
 
 <br>
 
-<!-- 잔디 통계 -->
+<!-- 연속 잔디 통계 -->
 <div align="center">
   <h3 style="color: #ffffff;">🔥 Current Streak</h3>
   <br>
@@ -36,9 +36,9 @@
   <h3 style="color: #ffffff;">⚡ Currently Learning and Growing</h3>
   <br>
   <p align="center">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white" />
-    <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white" />
-    <img src="https://img.shields.io/badge/Oracle_SQL-F00000?style=for-the-badge&logo=Oracle&logoColor=white" />
-    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=black" />
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+    <img src="https://img.shields.io/badge/Oracle_SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   </p>
 </div>
