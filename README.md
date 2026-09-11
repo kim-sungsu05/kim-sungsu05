@@ -24,13 +24,13 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=kim-sungsu05&theme=dark&background=0D0D0D&border=8B0000&ring=FF2200&fire=FF2200&currStreakNum=FF4500&sideLabels=false" alt="GitHub Streak" width="68%" />
 </div>
 
-<br><br><br><br>
+<br><br>
 
 <!-- 기여도 그래프 -->
 <div align="center">
   <h3 style="color: #ffffff;">🌌 Contribution Graph</h3>
   <br>
-  <img src="https://raw.githubusercontent.com/kim-sungsu05/kim-sungsu05/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" width="82%" />
+  <img src="https://raw.githubusercontent.com/kim-sungsu05/kim-sungsu05/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" width="95%" />
 </div>
 
 <br>
