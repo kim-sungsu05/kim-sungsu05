@@ -6,7 +6,7 @@
 <!-- 타이핑 문구 -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=4000&pause=1500&color=FFFFFF&center=true&vCenter=true&width=650&lines=hello%2C+world+I%27m+Sungsu;Journey+to+becoming+the+best+engineer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=4000&pause=1500&color=FFFFFF&center=true&vCenter=true&width=650&lines=hello%2C+world!+I%27m+Sungsu;%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF%EF%BC%81%E7%A7%81%E3%81%AF%E3%82%BD%E3%83%B3%E3%82%B9%E3%81%A7%E3%81%99" alt="Typing SVG" />
   </a>
 </p>
 
