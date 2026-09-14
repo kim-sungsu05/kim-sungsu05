@@ -17,20 +17,22 @@
 
 <br>
 
-<!-- 연속 잔디 통계 -->
+<!-- 연속잔디 & 3D 그래프 -->
 <div align="center">
-  <h3 style="color: #ffffff;">🔥 Current Streak</h3>
-  <br>
-  <img src="https://streak-stats.demolab.com?user=kim-sungsu05&user_time_zone=Asia/Seoul&theme=dark&background=0D0D0D&border=8B0000&ring=FF2200&fire=FF2200&currStreakNum=FF4500&sideLabels=false&v=1" alt="GitHub Streak" width="68%" />
-</div>
-
-<br><br>
-
-<!-- 기여도 그래프 -->
-<div align="center">
-  <h3 style="color: #ffffff;">🌌 Contribution Graph</h3>
-  <br>
-  <img src="https://raw.githubusercontent.com/kim-sungsu05/kim-sungsu05/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" width="95%" />
+  <table>
+    <tr>
+      <td align="center" valign="top" width="50%">
+        <h3 style="color: #ffffff;">🔥 Current Streak</h3>
+        <br>
+        <img src="https://streak-stats.demolab.com?user=kim-sungsu05&user_time_zone=Asia/Seoul&theme=dark&background=0D0D0D&border=8B0000&ring=FF2200&fire=FF2200&currStreakNum=FF4500&sideLabels=false&v=1" alt="GitHub Streak" width="100%" />
+      </td>
+      <td align="center" valign="top" width="50%">
+        <h3 style="color: #ffffff;">🌌 Contribution Graph</h3>
+        <br>
+        <img src="https://raw.githubusercontent.com/kim-sungsu05/kim-sungsu05/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" width="100%" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 <br>
