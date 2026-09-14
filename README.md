@@ -1,16 +1,12 @@
 <!-- 상단 배너 -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=8B0000&height=200&section=header&text=Welcome%20to%20my%20Github%20👋&fontSize=28&fontColor=ffffff&fontAlignY=50&v=6" width="100%" />
 
-<br>
-
 <!-- 타이핑 문구 -->
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=4000&pause=1500&color=FFFFFF&center=true&vCenter=true&width=650&lines=hello%2C+world!+I%27m+Sungsu;%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF%EF%BC%81%E7%A7%81%E3%81%AF%E3%82%BD%E3%83%B3%E3%82%B9%E3%81%A7%E3%81%99" alt="Typing SVG" />
   </a>
 </p>
-
-<br>
 
 <!-- 구분선 -->
 <hr style="border: 0; height: 1px; background: #8B0000; margin: 20px 0;" />
@@ -40,7 +36,7 @@
 <!-- 구분선 -->
 <hr style="border: 0; height: 1px; background: #8B0000; margin: 20px 0;" />
 
-<br>
+
 
 <!-- 현재 배우고 있는 과정 섹션 -->
 <div align="center">
