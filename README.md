@@ -21,7 +21,7 @@
 <div align="center">
   <h3 style="color: #ffffff;">🔥 Current Streak</h3>
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=kim-sungsu05&theme=dark&background=0D0D0D&border=8B0000&ring=FF2200&fire=FF2200&currStreakNum=FF4500&sideLabels=false" alt="GitHub Streak" width="68%" />
+  <img src="https://streak-stats.demolab.com?user=kim-sungsu05&user_time_zone=Asia/Seoul&theme=dark&background=0D0D0D&border=8B0000&ring=FF2200&fire=FF2200&currStreakNum=FF4500&sideLabels=false&v=1" alt="GitHub Streak" width="68%" />
 </div>
 
 <br><br>
