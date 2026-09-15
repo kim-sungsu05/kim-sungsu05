@@ -12,30 +12,7 @@
 <!-- 구분선 -->
 <hr style="border: 0; height: 1px; background: #8B0000; margin: 20px 0;" />
 
-<!-- 핵심 목표 및 도메인 정보 -->
-<div align="center">
-  <h3>Focus & Goals</h3>
-  <br>
-  <table width="100%">
-    <tr>
-      <td align="left" width="50%">
-        📌 <b>Main Domain</b>: Backend & LLM / AI Agent<br><br>
-        🎯 <b>Language Goal</b>: IT Business Japanese<br><br>
-        ⚙️ <b>Methodology</b>: High-Efficiency AI Automation Workflow
-      </td>
-      <td align="left" width="50%">
-        🚀 <b>Target Role</b>: Global IT Engineer<br><br>
-        🔥 <b>Daily Practice</b>: Continuous Commits<br><br>
-        📍 <b>Location</b>: South Korea
-      </td>
-    </tr>
-  </table>
-</div>
 
-<br>
-
-<!-- 구분선 -->
-<hr style="border: 0; height: 1px; background: #8B0000; margin: 20px 0;" />
 
 <!-- 현재 배우고 강화 중인 스택 -->
 <div align="center">
@@ -51,7 +28,6 @@
   </p>
 </div>
 
-<br>
 
 <!-- 구분선 -->
 <hr style="border: 0; height: 1px; background: #8B0000; margin: 20px 0;" />
