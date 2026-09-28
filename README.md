@@ -13,6 +13,6 @@
   <img 
     src="https://github-readme-streak-stats.herokuapp.com/?user=kim-sungsu05&theme=dark&fire=A94442&ring=8F3B3B&currStreakLabel=C66B6B"
     alt="GitHub Streaks"
-    width="80%"
+    width="50%"
   />
 </div>
