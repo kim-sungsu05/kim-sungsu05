@@ -1,6 +1,6 @@
 <div align="center">
   <h1>
-    Hello, world I'm Sungsu
+    Hello, world! I'm Sungsu
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="35" style="vertical-align: middle; margin-bottom: 4px;" />
   </h1>
   <p>Welcome to my GitHub profile</p>
@@ -16,12 +16,16 @@
 
 <br>
 
-## Toy Projects
-学習用に開発したミニプロジェクトの一覧です。
+## 🛠️ Toy Projects
+<details>
+<summary>🌱 学習用ミニプロジェクト一覧 (Click to expand)</summary>
+<br>
 
 | Project | Tech Stack | Description | Link |
 | :--- | :--- | :--- | :--- |
-| **[Graduate Admission Predictor]** | `Python`, `TensorFlow`, `NumPy`, `Pandas`| 大学院合格確率計算プログラム | [View](https://github.com/kim-sungsu05/graduate-admission-predictor) |
-| **[Wiki RAG]** | `Python`, `LangChain`, `Streamlit` | ナムウィキのドキュメントに基づく回答RAGプロジェクト | [View](https://github.com/kim-sungsu05/wiki-rag) |
-| **[Todo List]** | `HTML`, `CSS`, `JS`, `Node.js`, `MongoDB` | シンプルなTodoリスト | [View](https://github.com/kim-sungsu05/to-do-list) |
-| **[Calculator]** | `Java` | シンプルな電卓 | [View](https://github.com/kim-sungsu05/calculator) |
+| **[Graduate Admission Predictor]** | `Python`, `TensorFlow`, `NumPy`, `Pandas`| 大学院合格確率計算プログラム | [🔗View](https://github.com/kim-sungsu05/graduate-admission-predictor) |
+| **[Wiki RAG]** | `Python`, `LangChain`, `Streamlit` | ナムウィキ回答RAGプロジェクト | [🔗View](https://github.com/kim-sungsu05/wiki-rag) |
+| **[Todo List]** | `HTML`, `CSS`, `JS`, `Node.js`, `MongoDB` | シンプルなTodoリスト | [🔗View](https://github.com/kim-sungsu05/to-do-list) |
+| **[Calculator]** | `Java` | シンプルな電卓 | [🔗View](https://github.com/kim-sungsu05/calculator) |
+
+</details>
