@@ -60,7 +60,7 @@
 | :---: | :---: | :---: | :---: |
 | **[Graduate Admission Predictor]** | `Python`, `TensorFlow`, `NumPy`, `Pandas` | 大学院合格確率計算プログラム | [🔗 View](https://github.com/kim-sungsu05/graduate-admission-predictor) |
 | **[Wiki RAG]** | `Python`, `LangChain`, `Streamlit` | ナムウィキ回答RAGプロジェクト | [🔗 View](https://github.com/kim-sungsu05/wiki-rag) |
-| **[Todo List]** | `HTML`, `CSS`, `JS`, `Node.js`, `MongoDB` | シンプルなTodoリスト | [🔗 View](https://github.com/kim-sungsu05/to-do-list) |
+| **[Todo List]** | `HTML`, `CSS`, `JS`, `Node.js`, `MongoDB` | シンプルなTodoリスト | [🔗 View](https://github.com/kim-sungsu05/todo-list) |
 | **[Calculator]** | `Java` | シンプルな電卓 | [🔗 View](https://github.com/kim-sungsu05/calculator) |
 
 </div>
